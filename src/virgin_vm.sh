@@ -1,5 +1,5 @@
 #!/bin/bash
-
+sudo apt-get install aria2
 sudo apt-get update
 sudo apt-get --assume-yes upgrade
 sudo apt-get --assume-yes install software-properties-common
